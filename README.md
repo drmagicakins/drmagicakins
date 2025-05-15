@@ -1,3 +1,4 @@
+<marquee>Welcome to my dashboard</marquee>
 - 👋 Hi, I’m Akinyemi Mathew
 - 👀 I’m interested in working with developers around the world.
 - 🌱 I’m currently learning FULLSTACK development
